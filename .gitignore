@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+venv/
+env/
+.env
+
+# --- Archivos de Testing y Cobertura ---
+# Caché de pytest y reportes locales.
+.pytest_cache/
+.coverage
+htmlcov/
+
+.DS_Store
+.vscode/
+.idea/
